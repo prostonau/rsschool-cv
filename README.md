@@ -1,2 +1,2 @@
-https://github.com/prostonau/rsschool-cv/cv
-https://github.com/prostonau/rsschool-cv/
+https://github.io/prostonau/rsschool-cv/cv
+https://github.io/prostonau/rsschool-cv/
